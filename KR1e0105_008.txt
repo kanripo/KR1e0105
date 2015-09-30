@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋地名考略
-#+DATE: 2015-09-23 09:40:36
-#+PROPERTY: JUAN 8
+#+DATE: 2015-08-24 22:17:10.307215
+#+PROPERTY: ID KR1e0105
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷八
 <pb:KR1e0105_WYG_008-1a>¶
 欽定四庫全書¶
 　春秋地名攷畧卷八¶
@@ -452,4 +454,3 @@
 　¶
 　¶
 　春秋地名攷畧卷八¶
-

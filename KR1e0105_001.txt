@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋地名考略
-#+DATE: 2015-09-23 09:40:36
-#+PROPERTY: JUAN 1
+#+DATE: 2015-08-24 22:17:10.165404
+#+PROPERTY: ID KR1e0105
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷一
 <pb:KR1e0105_WYG_001-1a>¶
 欽定四庫全書¶
 　春秋地名攷畧卷一¶
@@ -488,4 +490,3 @@
 　盂(見上邘或云/盂即  也)¶
 　¶
 　春秋地名攷畧卷一¶
-

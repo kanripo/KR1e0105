@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋地名考略
-#+DATE: 2015-09-23 09:40:36
-#+PROPERTY: JUAN 2
+#+DATE: 2015-08-24 22:17:10.187327
+#+PROPERTY: ID KR1e0105
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二
 <pb:KR1e0105_WYG_002-1a>¶
 欽定四庫全書¶
 　春秋地名攷略卷二¶
@@ -470,4 +472,3 @@
 　　(城在今治西/二十五里)¶
 　丘輿(哀十四年司馬牛卒于魯郭門之外葬/諸丘輿杜注泰山南城縣西北有輿城)¶
 　春秋地名攷畧卷二¶
-
